@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <options>
+<options>
     <translate expr="to" to="Куда"/>
     <translate expr="from" to="Откуда"/>
     <translate expr="or" to="или"/>
@@ -26,4 +26,4 @@
     <force rows="1"/>
     <correspondences limit="250"/>
     <max-correspondences per-line="6" below="20"/>
-  </options>
+</options>
