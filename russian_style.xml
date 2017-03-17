@@ -12,18 +12,10 @@
     <translate expr="friday_short" to="пт"/>
     <translate expr="saturday_short" to="сб"/>
     <translate expr="sunday_short" to="вс"/>
-    <reduce expr="Микрорайон" to="мкр."/>
-    <reduce expr="микрорайон" to="мкр."/>
-    <reduce expr="Садовое общество" to="с/о"/>
-    <reduce expr="садовое общество" to="с/о"/>
-    <reduce expr="Улица" to="ул."/>
-    <reduce expr="улица" to="ул."/>
-    <reduce expr="Квартал" to="кв-л"/>
-    <reduce expr="квартал" to="кв-л"/>
     <width px="4000"/>
     <height px="600"/>
     <stop-font-size px="16"/>
     <force rows="1"/>
-    <correspondences limit="250"/>
+    <correspondences limit="100"/>
     <max-correspondences per-line="6" below="20"/>
 </options>
